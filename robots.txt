@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vbotdevteam.github.io/vbot-landing-page-v2-pages/sitemap.xml
